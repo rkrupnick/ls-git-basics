@@ -1,0 +1,3 @@
+# Ignore all SQList databases
+
+db/*.sqlite3
